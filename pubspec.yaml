@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^2.0.0
+  iconsax: ^1.1.0
